@@ -1,4 +1,14 @@
-## Hi there 👋
+# Olá, eu sou o Leonardo, muito prazer 👋
+
+Estudante de Análise e Desenvolvimento de Sistemas com foco em mudar algo nesse mundao.
+
+## O que eu estou estudando
+- SQL
+- Python
+- Análise de dados
+
+## Contato
+- E-mail:Leonardoalvispresley@gmail.com
 
 <!--
 **Leonardoalvespresley/Leonardoalvespresley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
