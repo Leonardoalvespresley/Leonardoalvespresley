@@ -8,7 +8,7 @@ Estudante de Análise e Desenvolvimento de Sistemas com foco em mudar algo nesse
 - Análise de dados
 
 ## Contato
-- E-mail:Leonardoalvispresley@gmail.com
+- E-mail: leonardoalvispresley@gmail.com
 
 <!--
 **Leonardoalvespresley/Leonardoalvespresley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
